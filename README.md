@@ -1,16 +1,17 @@
 ### Hi there 👋
+My stack:
+  - Django (DRF, Channels, Tests/)
+  - JS (React, Redux)
+  - HTML, CSS
+  
+I am familiar with:
+  - Postgres
+  - Docker, docker-compose
+  - Bootstrap
 
-<!--
-**Korek-F/Korek-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently also learning:
+  - Tensorflow
 
-Here are some ideas to get you started:
+Check my pinned repositories!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am looking for remote backend job and first commercial experience.
