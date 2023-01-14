@@ -8,6 +8,9 @@ I am familiar with:
   - Postgres
   - Docker, docker-compose
   - Bootstrap
+  - Nginx
+  - Linux 
+  - Postman
 
 Currently also learning:
   - Tensorflow
