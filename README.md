@@ -13,7 +13,8 @@ I am familiar with:
   - Postman
 
 Currently also learning:
-  - Tensorflow
+  - Tensorflow 
+  - Keras
 
 Check my pinned repositories!
 
