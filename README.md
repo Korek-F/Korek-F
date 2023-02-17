@@ -11,6 +11,7 @@ I am familiar with:
   - Nginx
   - Linux 
   - Postman
+  - htmx
 
 Currently also learning:
   - Tensorflow 
