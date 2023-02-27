@@ -19,4 +19,4 @@ Currently also learning:
 
 Check my pinned repositories!
 
-I am looking for remote backend job and first commercial experience.
+I am looking for backend job and first commercial experience.
